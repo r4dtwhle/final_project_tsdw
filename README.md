@@ -1,4 +1,29 @@
 # A. Pendahuluan
+Final Project Teknik Sampling Dan Data Wrangling
+
+Deskripsi singkat:
+	Project ini bertujuan untuk melakukan preprocessing, analisis, dan visualisasi dari dataset Spotify untuk mendapatkan insight.
+
+Struktur File:
+	data/raw/		: Dataset mentah
+	data/processed/		: Dataset yang sudah melalui preprocessing
+	notebooks/		: Folder yang berisikan kode utama
+	requirements.txt	: Daftar library yang digunakan
+
+Setup envirorment:
+	pandas 2.0.3
+	numpy 1.24.3
+	matplotlib 3.7.2
+	seaborn 0.12.2
+	jupyter 1.0.0
+
+Menjalankan Program:
+	Jalankan file 'notebooks/project.ipnyb'
+
+Authors:
+	Radithya Mahaputra (5052241019)
+	Yafi Muhammad Faldin (5052241026)
+	Muhammad Naqib Bariq (5052241013)
 
 ## 1. Deskripsi Dataset
 
